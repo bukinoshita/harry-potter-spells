@@ -33,7 +33,7 @@ console.log(harryPotterSpells.all)
 
 ## Demo
 
-<img src="https://github.com/bukinoshita/harry-potter-spells/blob/master/demo.png" alt="">
+<img src="https://github.com/bukinoshita/harry-potter-spells/blob/master/demo.png" alt="" width="550">
 
 
 ## License
