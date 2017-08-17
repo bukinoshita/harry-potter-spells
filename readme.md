@@ -52,6 +52,18 @@ Returns an `array`
 
 Get all spells
 
+#### .spell(input)
+
+Returns an `object`
+
+Get a specific spell
+
+##### input
+
+Type: `string`<br/>
+
+Spell's name
+
 
 ## License
 

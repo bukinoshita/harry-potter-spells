@@ -10,3 +10,11 @@ test('get all spells', t => {
 test('get random spell', t => {
   t.not(m.random(), m.random())
 })
+
+test('get spell', t => {
+  t.truthy(m.spell('accio'))
+})
+
+test('not find spell', t => {
+  t.is(m.spell('acccio'), undefined)
+})
