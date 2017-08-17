@@ -36,6 +36,23 @@ console.log(harryPotterSpells.all)
 <img src="https://github.com/bukinoshita/harry-potter-spells/blob/master/demo.png" alt="">
 
 
+## API
+
+### harryPotterSpells()
+
+#### .random()
+
+Returns an `object`
+
+Get a random spell
+
+#### .all
+
+Returns an `array`
+
+Get all spells
+
+
 ## License
 
 MIT © [Bu Kinoshita](https://bukinoshita.io)
