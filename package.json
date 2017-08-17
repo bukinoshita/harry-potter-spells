@@ -1,0 +1,24 @@
+{
+  "name": "harry-potter-spells",
+  "version": "0.0.0",
+  "description": "List of Harry Potter spells",
+  "main": "index.js",
+  "repository": "https://github.com/bukinoshita/harry-potter-spells.git",
+  "author": "Bu Kinoshita <bukinoshita@gmail.com>",
+  "license": "MIT",
+  "keywords": ["harry", "potter", "spells", "random", "all"],
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "dependencies": {
+    "unique-random-array": "^1.0.0"
+  },
+  "devDependencies": {
+    "ava": "^0.22.0",
+    "eslint-config-prettier": "^2.3.0",
+    "xo": "^0.18.2"
+  },
+  "xo": {
+    "extends": ["prettier"]
+  }
+}
