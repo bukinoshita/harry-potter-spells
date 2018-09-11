@@ -42,7 +42,7 @@
   {
     "name": "Cave Inimicum",
     "type": "spell",
-    "effect": "Strengthen an enclosure from enemies"
+    "effect": "Strengthens an enclosure from enemies"
   },
   {
     "name": "Colloportus",
@@ -52,12 +52,12 @@
   {
     "name": "Confringo",
     "type": "curse",
-    "effect": "Explode flames on target"
+    "effect": "Explodes flames on target"
   },
   {
     "name": "Confundus",
     "type": "charm",
-    "effect": "Used to confuse opponent"
+    "effect": "Confuses opponent"
   },
   {
     "name": "Conjunctivitis",
@@ -72,7 +72,7 @@
   {
     "name": "Defodio",
     "type": "spell",
-    "effect": "Dig out materials"
+    "effect": "Digs out materials"
   },
   {
     "name": "Deletrius",
@@ -87,7 +87,7 @@
   {
     "name": "Deprimo",
     "type": "spell",
-    "effect": "Wind damaging spell"
+    "effect": "Blasts holes through walls and floors"
   },
   {
     "name": "Diffindo",
@@ -188,7 +188,7 @@
   {
     "name": "Homorphus",
     "type": "charm",
-    "effect": "Lockhart's Werewolf `cure`"
+    "effect": "Cures werewolves (at least according to Lockhart)"
   },
   {
     "name": "Immobulus",
@@ -203,7 +203,7 @@
   {
     "name": "Imperio",
     "type": "curse",
-    "effect": "Controls a person Unforgivable"
+    "effect": "Controls a person – unforgivable"
   },
   {
     "name": "Impervius",
@@ -238,7 +238,7 @@
   {
     "name": "Liberacorpus",
     "type": "spell",
-    "effect": "Counterspell"
+    "effect": "Counterspells"
   },
   {
     "name": "Locomotor Mortis",
@@ -278,7 +278,7 @@
   {
     "name": "Nox",
     "type": "spell",
-    "effect": "Counter to Lumos"
+    "effect": "Counters Lumos"
   },
   {
     "name": "Obliviate",
@@ -313,7 +313,7 @@
   {
     "name": "Petrificus Totalus",
     "type": "spell",
-    "effect": "Body - Bind"
+    "effect": "Binds body – unforgivable"
   },
   {
     "name": "Piertotum Locomotor",
@@ -323,12 +323,12 @@
   {
     "name": "Point Me",
     "type": "charm",
-    "effect": "Wand acts like a compass"
+    "effect": "Makes wand act like a compass"
   },
   {
     "name": "Priori Incantatum",
     "type": "spell",
-    "effect": "Result when brother wands duel"
+    "effect": "Echoes most recent spells, result when brother wands duel"
   },
   {
     "name": "Prior Incantato",
@@ -338,7 +338,7 @@
   {
     "name": "Protego",
     "type": "charm",
-    "effect": "Cause spells to reflect back to the sender. "
+    "effect": "Causes spells to reflect back to the sender. "
   },
   {
     "name": "Protego Horribilis",
@@ -348,12 +348,12 @@
   {
     "name": "Protego Totalum",
     "type": "spell",
-    "effect": "Area Protection spell"
+    "effect": "Protects area"
   },
   {
     "name": "Quietus",
     "type": "spell",
-    "effect": "Counter spell for Sonorus"
+    "effect": "Counters Sonorus"
   },
   {
     "name": "Reducio",
@@ -393,12 +393,12 @@
   {
     "name": "Riddikulus",
     "type": "spell",
-    "effect": "Use this spell and laugh to defeat a boggart"
+    "effect": "Turns boggart into ridiculous form so you can laugh it away"
   },
   {
     "name": "Salvio Hexia",
     "type": "spell",
-    "effect": "Protection against hexes"
+    "effect": "Protects against hexes"
   },
   {
     "name": "Scruge",
