@@ -20,7 +20,7 @@
     "unique-random-array": "^2.0.0"
   },
   "devDependencies": {
-    "ava": "0.25.0",
+    "ava": "2.0.0",
     "eslint-config-prettier": "4.3.0",
     "xo": "0.24.0"
   },
