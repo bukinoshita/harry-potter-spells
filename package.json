@@ -20,9 +20,9 @@
     "unique-random-array": "^1.0.0"
   },
   "devDependencies": {
-    "ava": "^0.22.0",
-    "eslint-config-prettier": "^2.3.0",
-    "xo": "^0.18.2"
+    "ava": "0.22.0",
+    "eslint-config-prettier": "2.3.0",
+    "xo": "0.18.2"
   },
   "xo": {
     "extends": [
