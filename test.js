@@ -1,6 +1,6 @@
-'use strict'
-
+// Packages
 import test from 'ava'
+
 import m from '.'
 
 test('get all spells', t => {

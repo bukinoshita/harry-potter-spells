@@ -1,9 +1,11 @@
-'use strict'
-
+// Packages
 const uniqueRandomArray = require('unique-random-array')
 
-const spells = require('./spells')
+// Lib
 const spell = require('./lib/spell')
+
+// Root
+const spells = require('./spells')
 
 exports.all = spells
 exports.random = uniqueRandomArray(spells)

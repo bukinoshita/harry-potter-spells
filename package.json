@@ -14,7 +14,8 @@
     "all"
   ],
   "scripts": {
-    "test": "xo && ava"
+    "test": "ava",
+    "lint": "xo"
   },
   "dependencies": {
     "unique-random-array": "^2.0.0"
@@ -22,11 +23,26 @@
   "devDependencies": {
     "ava": "2.1.0",
     "eslint-config-prettier": "4.3.0",
+    "husky": "2.4.1",
+    "lint-staged": "8.2.0",
+    "prettier": "1.18.2",
     "xo": "0.24.0"
   },
   "xo": {
     "extends": [
       "prettier"
     ]
+  },
+  "lint-staged": {
+    "*.js": [
+      "prettier --semi false --single-quote --write",
+      "yarn lint",
+      "git add"
+    ]
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
   }
 }
