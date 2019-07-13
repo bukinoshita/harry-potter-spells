@@ -21,7 +21,7 @@
     "unique-random-array": "^2.0.0"
   },
   "devDependencies": {
-    "ava": "2.1.0",
+    "ava": "2.2.0",
     "eslint-config-prettier": "6.0.0",
     "husky": "3.0.0",
     "lint-staged": "9.0.1",
