@@ -381,6 +381,11 @@
     "effect": "Cures unconsciousness"
   },
   {
+    "name": "Reparifarge",
+    "type": "charm",
+    "effect": "Untransigures an object"
+  },
+  {
     "name": "Reparo",
     "type": "spell",
     "effect": "Repairs Things"
