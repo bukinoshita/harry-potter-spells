@@ -556,5 +556,6 @@
     "name": "Wingardium Leviosa",
     "type": "charm",
     "effect": "Makes on object fly",
+  	"counter-spell": null
   }
 ]
