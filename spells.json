@@ -140,6 +140,11 @@
     "effect": "Makes objects explode"
   },
   {
+    "name": "Evanesco",
+    "type": "spell",
+    "effect": "Makes objects vanish"
+  },
+  {
     "name": "Ferula",
     "type": "spell",
     "effect": "Creates bandages"
