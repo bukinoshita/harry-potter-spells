@@ -14,7 +14,7 @@
     "all"
   ],
   "scripts": {
-    "test": "ava",
+    "test": "ava && yarn lint",
     "lint": "xo"
   },
   "dependencies": {
