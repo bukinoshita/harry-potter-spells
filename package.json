@@ -1,6 +1,6 @@
 {
   "name": "harry-potter-spells",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "List of Harry Potter spells",
   "main": "index.js",
   "repository": "https://github.com/bukinoshita/harry-potter-spells.git",
